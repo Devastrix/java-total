@@ -1,0 +1,6 @@
+#AlbumNo;ArtistName;NoOfSongs;Genre;Rating
+1;Arijit;5;Romance;9.7
+2;AR Rehman;3;Romance;9.2
+3;Shaan;6;Romance;9.1
+4;Sonu Nigam;7;Romance;9.0
+5;Gyanesh Tiwari;2;Romance;9.9
